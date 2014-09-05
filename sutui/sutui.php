@@ -28,7 +28,7 @@ class sutui
 		$key = 'api.key=' .$this->key;
         $ts = 'api.timestamp=' .time();
         $sign = 'api.signature='.sha1($this->key.'&'.$this->secret.'&'.time());
-        $url= $this->api_host.$url.'?'.$key.'&'.$ts.'&'.$sign;
+        $url= $this->api_host.$url.$key.'&'.$ts.'&'.$sign;
         return $url;
     }
 
