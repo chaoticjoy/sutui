@@ -21,7 +21,11 @@ class sutui
 
     private function _complete_url($url)
     {
-    	$key = 'api.key=' .$this->key;
+    	if(stristr($url,'?')===false)
+			$url.='?';
+		else
+			$url.='&';
+		$key = 'api.key=' .$this->key;
         $ts = 'api.timestamp=' .time();
         $sign = 'api.signature='.sha1($this->key.'&'.$this->secret.'&'.time());
         $url= $this->api_host.$url.'?'.$key.'&'.$ts.'&'.$sign;
