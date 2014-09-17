@@ -11,4 +11,4 @@ PHP SDK for sutui
 
 <a href='http://mp.weixin.qq.com/s?__biz=MjM5NjAwMjMwMA==&mid=200880875&idx=1&sn=f6b59bb9f62237c72e29084d0b4d08b3' target=_blank>官方接口文档</a>
 
-速推开发指南：http://mp.weixin.qq.com/s?__biz=MjM5NjAwMjMwMA==&mid=200864258&idx=1&sn=3ace07c044efa933dabeca0cbee0d0a6
+<a href='http://mp.weixin.qq.com/s?__biz=MjM5NjAwMjMwMA==&mid=200864258&idx=1&sn=3ace07c044efa933dabeca0cbee0d0a6' target=_blank>速推开发指南</a>
