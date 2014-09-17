@@ -1,5 +1,5 @@
 <?php
-include('../lib/sutui.php');
+include('../sutui/sutui.php');
 
 //配置KEY和SECRET
 define( "KEY" , '' );
