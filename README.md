@@ -9,5 +9,6 @@ PHP SDK for sutui
 
 速推不局限不以上用法，可以通过速推方便的推送文字、图文、音乐、视频等消息，也可以通过简单的微信命令完成远程操作，有想象力的开发者还可以把速推应用到更多场合中。
 
-官方接口文档：http://mp.weixin.qq.com/s?__biz=MjM5NjAwMjMwMA==&mid=200880875&idx=1&sn=f6b59bb9f62237c72e29084d0b4d08b3
+<a href='http://mp.weixin.qq.com/s?__biz=MjM5NjAwMjMwMA==&mid=200880875&idx=1&sn=f6b59bb9f62237c72e29084d0b4d08b3' target=_blank>官方接口文档</a>
+
 速推开发指南：http://mp.weixin.qq.com/s?__biz=MjM5NjAwMjMwMA==&mid=200864258&idx=1&sn=3ace07c044efa933dabeca0cbee0d0a6
